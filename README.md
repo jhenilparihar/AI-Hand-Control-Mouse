@@ -11,4 +11,4 @@ Control Mouse using Finger Tip | Computer Vision | Open CV | Pyautogui
 
 = Index Finger : Right click (close index finger for right click Note:Thumb should also be close).
 
-Adjust the smoothness of mouse using smoothing parameter.
+Adjust the smoothness of mouse using smoothening parameter.
