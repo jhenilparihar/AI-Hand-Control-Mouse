@@ -7,5 +7,4 @@ Control Mouse using Finger Tip | Computer Vision | Open CV | Pyautogui
 
 > Index and Middle finger : left click (If distance between Index finger and Middle Finger is short then it left click).
 > Thumb : double click (close thumb for double click).
-> Index Finger : Right click (close index finger for right click).
-
+> Index Finger : Right click (close index finger for right click Note:Thumb should also be close).
