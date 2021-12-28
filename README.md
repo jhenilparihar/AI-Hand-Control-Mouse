@@ -5,10 +5,10 @@ Control Mouse using Finger Tip | Computer Vision | Open CV | Pyautogui
 - MediaPipe pipeline model to detect hand and track hand landmark in frame.
 - Pyautogui to control mouse
 
-= Index and Middle finger : left click (If distance between Index finger and Middle Finger is short then it left click).
+1. Index and Middle finger : left click (If distance between Index finger and Middle Finger is short then it left click).
+2. Thumb : double click (close thumb for double click).
+3. Index Finger : Right click (close index finger for right click Note:Thumb should also be close).
 
-= Thumb : double click (close thumb for double click).
+##### Adjust the smoothness of mouse using smoothening parameter.
 
-= Index Finger : Right click (close index finger for right click Note:Thumb should also be close).
-
-Adjust the smoothness of mouse using smoothening parameter.
+#### Please star this repository of you like.
