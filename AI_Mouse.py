@@ -6,7 +6,7 @@ import pyautogui
 ##############################################
 cam_width, cam_height = 640, 480             #
 previous_time = 0                            #
-frame_red = 150     # Frame Reduction        #
+frame_red = 120     # Frame Reduction        #
 smoothening = 2                              #
 ##############################################
 
